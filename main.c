@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-	printf("Hello World:");
+	printf("\tHello World:\n\t");
+	printf("New project:");
 	return 0;
 }
